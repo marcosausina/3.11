@@ -1,0 +1,42 @@
+h1{
+    color: brown;
+    text-align: center;
+}
+
+body{
+    background-color: papayawhip;
+}
+
+div.carta{
+    font-size: 30px;
+}
+
+div.cafe{
+    font-size: 30px;
+    text-align: center;
+}
+
+div.contacto{
+    text-align: right;
+    font-size: 30px;
+}
+
+img{
+    width: 250px;
+}
+
+p{
+    color: darkred;
+}
+
+div.maps{
+    display: inline-block;
+}
+
+div.mundo_reloj{
+    display: inline-block;
+}
+
+div.todo_contacto{
+    text-align: center;
+}
